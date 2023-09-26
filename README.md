@@ -1,10 +1,10 @@
 # ProjectCapstoneMSIB5-HCAI
 ## Infinite Learning
 Red Hat Certified System Administrator - IBM AI & Cybersecurity
-- Nama : Nur Romadhoni Hidayat
-- Asal : Pasuruan
-- Asal Kampus : Universitas Yudharta Pasuruan
-- Jurusan : Teknik Informatika
+- Nama         : Nur Romadhoni Hidayat
+- Asal         : Pasuruan
+- Asal Kampus  : Universitas Yudharta Pasuruan
+- Jurusan      : Teknik Informatika
 
 ## Keterangan Projek
 ### Dataset Produksi Padi
