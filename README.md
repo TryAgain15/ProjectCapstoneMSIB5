@@ -1,1 +1,2 @@
-# ProjectCapstoneMSIB5
+# ProjectCapstoneMSIB5-HCAI
+## Infinite Learning
