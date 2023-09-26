@@ -1,10 +1,10 @@
 # ProjectCapstoneMSIB5-HCAI
 ## Infinite Learning
 Red Hat Certified System Administrator - IBM AI & Cybersecurity
-Nama : Nur Romadhoni Hidayat
-Asal : Pasuruan
-Asal Kampus : Universitas Yudharta Pasuruan
-Jurusan : Teknik Informatika
+- Nama : Nur Romadhoni Hidayat
+- Asal : Pasuruan
+- Asal Kampus : Universitas Yudharta Pasuruan
+- Jurusan : Teknik Informatika
 
 ## Keterangan Projek
 ### Dataset Produksi Padi
@@ -22,11 +22,11 @@ Dataset ini diambil dari website kaggle : https://www.kaggle.com/datasets/ardika
 ### Komponen
 1. IBM Watson Studio
 
-![image](https://github.com/TryAgain15/ProjectCapstoneMSIB5/assets/118412595/15f13b41-fd25-4e16-a157-62187e3d826c)
+![image](https://github.com/TryAgain15/ProjectCapstoneMSIB5/assets/118412595/4da08a80-cacb-4b3c-a6fa-eb0407b152e0)
 
 2. IBM Watson Machine Learning
 
-![image](https://github.com/TryAgain15/ProjectCapstoneMSIB5/assets/118412595/4da08a80-cacb-4b3c-a6fa-eb0407b152e0)
+![image](https://github.com/TryAgain15/ProjectCapstoneMSIB5/assets/118412595/15f13b41-fd25-4e16-a157-62187e3d826c)
 
 ### Hasil
 ![image](https://github.com/TryAgain15/ProjectCapstoneMSIB5/assets/118412595/89a8b848-5e5f-4bd3-b8b4-9b6af8e1c368)
